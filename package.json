@@ -1,0 +1,32 @@
+{
+  "name": "protractor",
+  "version": "1.0.0",
+  "description": "This is a Workshop about Protractor",
+  "main": "protractor.config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "protractor": "^5.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "protractor protractor.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arielo2017/protractor-workshop-2017.git"
+  },
+  "keywords": [
+    "ui-testing",
+    "dojo",
+    "practice",
+    "protractor"
+  ],
+  "author": "Ariel - ariel1985@gmail.com (arielo2017)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arielo2017/protractor-workshop-2017/issues"
+  },
+  "homepage": "https://github.com/arielo2017/protractor-workshop-2017#readme"
+}
