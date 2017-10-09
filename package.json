@@ -1,8 +1,8 @@
 {
-  "name": "protractor",
+  "name": "protractor-workshop-2017",
   "version": "1.0.0",
   "description": "This is a Workshop about Protractor",
-  "main": "protractor.config.js",
+  "main": "index.js",
   "directories": {
     "test": "test"
   },
